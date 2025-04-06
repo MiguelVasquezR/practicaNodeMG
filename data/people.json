@@ -1,0 +1,758 @@
+[
+  {
+    "fistName": "Carlos",
+    "lastName": "Garcia",
+    "age": "32",
+    "phone": ["+34123456789"],
+    "email": "carlos.garcia@example.com",
+    "address": {
+      "city": "Madrid",
+      "street": "Calle Mayor 1",
+      "postalCode": "28001"
+    },
+    "hobbies": ["fútbol", "lectura"],
+    "isActive": true
+  },
+  {
+    "fistName": "Ana",
+    "lastName": "Martinez",
+    "age": "27",
+    "phone": ["+34123456780"],
+    "email": "ana.martinez@example.com",
+    "address": {
+      "city": "Barcelona",
+      "street": "Avinguda Diagonal 234",
+      "postalCode": "08008"
+    },
+    "hobbies": ["pintura", "natación"],
+    "isActive": false
+  },
+  {
+    "fistName": "Luis",
+    "lastName": "Rodriguez",
+    "age": "45",
+    "phone": ["+34111222333"],
+    "email": "luis.rodriguez@example.com",
+    "address": {
+      "city": "Valencia",
+      "street": "Calle de la Paz 12",
+      "postalCode": "46001"
+    },
+    "hobbies": ["ciclismo", "música"],
+    "isActive": true
+  },
+  {
+    "fistName": "Maria",
+    "lastName": "Fernandez",
+    "age": "38",
+    "phone": ["+34199887766"],
+    "email": "maria.fernandez@example.com",
+    "address": {
+      "city": "Sevilla",
+      "street": "Avenida de la Constitución 45",
+      "postalCode": "41001"
+    },
+    "hobbies": ["fotografía", "viajar"],
+    "isActive": true
+  },
+  {
+    "fistName": "Jorge",
+    "lastName": "Lopez",
+    "age": "29",
+    "phone": ["+34123445001"],
+    "email": "jorge.lopez@example.com",
+    "address": {
+      "city": "Bilbao",
+      "street": "Calle del Sol 8",
+      "postalCode": "48001"
+    },
+    "hobbies": ["senderismo", "cine"],
+    "isActive": false
+  },
+  {
+    "fistName": "Sofia",
+    "lastName": "Gonzalez",
+    "age": "34",
+    "phone": ["+34123445002"],
+    "email": "sofia.gonzalez@example.com",
+    "address": {
+      "city": "Zaragoza",
+      "street": "Paseo de la Independencia 20",
+      "postalCode": "50001"
+    },
+    "hobbies": ["lectura", "yoga"],
+    "isActive": true
+  },
+  {
+    "fistName": "Miguel",
+    "lastName": "Sanchez",
+    "age": "41",
+    "phone": ["+34123445003"],
+    "email": "miguel.sanchez@example.com",
+    "address": {
+      "city": "Málaga",
+      "street": "Calle Larios 3",
+      "postalCode": "29001"
+    },
+    "hobbies": ["natación", "ajedrez"],
+    "isActive": true
+  },
+  {
+    "fistName": "Lucia",
+    "lastName": "Ramirez",
+    "age": "26",
+    "phone": ["+34123445004"],
+    "email": "lucia.ramirez@example.com",
+    "address": {
+      "city": "Murcia",
+      "street": "Avenida de la Libertad 15",
+      "postalCode": "30001"
+    },
+    "hobbies": ["dibujo", "danza"],
+    "isActive": false
+  },
+  {
+    "fistName": "Pedro",
+    "lastName": "Torres",
+    "age": "37",
+    "phone": ["+34123445005"],
+    "email": "pedro.torres@example.com",
+    "address": {
+      "city": "Valladolid",
+      "street": "Calle Real 7",
+      "postalCode": "47001"
+    },
+    "hobbies": ["lectura", "pasear"],
+    "isActive": true
+  },
+  {
+    "fistName": "Elena",
+    "lastName": "Diaz",
+    "age": "31",
+    "phone": ["+34123445006"],
+    "email": "elena.diaz@example.com",
+    "address": {
+      "city": "Granada",
+      "street": "Calle Reyes Católicos 22",
+      "postalCode": "18001"
+    },
+    "hobbies": ["música", "teatro"],
+    "isActive": true
+  },
+  {
+    "fistName": "Fernando",
+    "lastName": "Ruiz",
+    "age": "40",
+    "phone": ["+34123445007"],
+    "email": "fernando.ruiz@example.com",
+    "address": {
+      "city": "Alicante",
+      "street": "Calle San Juan 10",
+      "postalCode": "03001"
+    },
+    "hobbies": ["fútbol", "viajar"],
+    "isActive": false
+  },
+  {
+    "fistName": "Carmen",
+    "lastName": "Morales",
+    "age": "36",
+    "phone": ["+34123445008"],
+    "email": "carmen.morales@example.com",
+    "address": {
+      "city": "Córdoba",
+      "street": "Calle de la Estrella 5",
+      "postalCode": "14001"
+    },
+    "hobbies": ["cocina", "lectura"],
+    "isActive": true
+  },
+  {
+    "fistName": "Antonio",
+    "lastName": "Ortiz",
+    "age": "42",
+    "phone": ["+34123445009"],
+    "email": "antonio.ortiz@example.com",
+    "address": {
+      "city": "Salamanca",
+      "street": "Plaza Mayor 2",
+      "postalCode": "37001"
+    },
+    "hobbies": ["ajedrez", "música"],
+    "isActive": true
+  },
+  {
+    "fistName": "Laura",
+    "lastName": "Gutierrez",
+    "age": "28",
+    "phone": ["+34123445010"],
+    "email": "laura.gutierrez@example.com",
+    "address": {
+      "city": "San Sebastián",
+      "street": "Calle de la Concha 18",
+      "postalCode": "20001"
+    },
+    "hobbies": ["surf", "fotografía"],
+    "isActive": false
+  },
+  {
+    "fistName": "Javier",
+    "lastName": "Ramos",
+    "age": "39",
+    "phone": ["+34123445011"],
+    "email": "javier.ramos@example.com",
+    "address": {
+      "city": "A Coruña",
+      "street": "Calle Real 3",
+      "postalCode": "15001"
+    },
+    "hobbies": ["baloncesto", "ciclismo"],
+    "isActive": true
+  },
+  {
+    "fistName": "Isabel",
+    "lastName": "Navarro",
+    "age": "33",
+    "phone": ["+34123445012"],
+    "email": "isabel.navarro@example.com",
+    "address": {
+      "city": "Vigo",
+      "street": "Avenida de la Libertad 9",
+      "postalCode": "36201"
+    },
+    "hobbies": ["pintura", "lectura"],
+    "isActive": true
+  },
+  {
+    "fistName": "Manuel",
+    "lastName": "Alvarez",
+    "age": "44",
+    "phone": ["+34123445013"],
+    "email": "manuel.alvarez@example.com",
+    "address": {
+      "city": "Pamplona",
+      "street": "Calle Estella 14",
+      "postalCode": "31001"
+    },
+    "hobbies": ["senderismo", "música"],
+    "isActive": false
+  },
+  {
+    "fistName": "Rosa",
+    "lastName": "Romero",
+    "age": "30",
+    "phone": ["+34123445014"],
+    "email": "rosa.romero@example.com",
+    "address": {
+      "city": "Burgos",
+      "street": "Calle del Sol 11",
+      "postalCode": "09001"
+    },
+    "hobbies": ["danza", "cocina"],
+    "isActive": true
+  },
+  {
+    "fistName": "Sergio",
+    "lastName": "Molina",
+    "age": "35",
+    "phone": ["+34123445015"],
+    "email": "sergio.molina@example.com",
+    "address": {
+      "city": "La Coruña",
+      "street": "Avenida de María Pita 6",
+      "postalCode": "15002"
+    },
+    "hobbies": ["fútbol", "videojuegos"],
+    "isActive": true
+  },
+  {
+    "fistName": "Paula",
+    "lastName": "Delgado",
+    "age": "29",
+    "phone": ["+34123445016"],
+    "email": "paula.delgado@example.com",
+    "address": {
+      "city": "Logroño",
+      "street": "Calle Portales 7",
+      "postalCode": "26001"
+    },
+    "hobbies": ["lectura", "correr"],
+    "isActive": false
+  },
+  {
+    "fistName": "Ricardo",
+    "lastName": "Vargas",
+    "age": "46",
+    "phone": ["+34123445017"],
+    "email": "ricardo.vargas@example.com",
+    "address": {
+      "city": "Oviedo",
+      "street": "Calle Uria 19",
+      "postalCode": "33001"
+    },
+    "hobbies": ["natación", "ajedrez"],
+    "isActive": true
+  },
+  {
+    "fistName": "Claudia",
+    "lastName": "Silva",
+    "age": "25",
+    "phone": ["+34123445018"],
+    "email": "claudia.silva@example.com",
+    "address": {
+      "city": "Santander",
+      "street": "Avenida del Ejército 8",
+      "postalCode": "39001"
+    },
+    "hobbies": ["dibujo", "música"],
+    "isActive": true
+  },
+  {
+    "fistName": "Eduardo",
+    "lastName": "Cruz",
+    "age": "37",
+    "phone": ["+34123445019"],
+    "email": "eduardo.cruz@example.com",
+    "address": {
+      "city": "Huelva",
+      "street": "Calle Real 2",
+      "postalCode": "21001"
+    },
+    "hobbies": ["fútbol", "lectura"],
+    "isActive": false
+  },
+  {
+    "fistName": "Marta",
+    "lastName": "Paredes",
+    "age": "30",
+    "phone": ["+34123445020"],
+    "email": "marta.paredes@example.com",
+    "address": {
+      "city": "Almería",
+      "street": "Avenida de la Constitución 33",
+      "postalCode": "04001"
+    },
+    "hobbies": ["pintura", "viajar"],
+    "isActive": true
+  },
+  {
+    "fistName": "Andres",
+    "lastName": "Ortega",
+    "age": "41",
+    "phone": ["+34123445021"],
+    "email": "andres.ortega@example.com",
+    "address": {
+      "city": "Castellón",
+      "street": "Calle del Mar 12",
+      "postalCode": "12001"
+    },
+    "hobbies": ["ciclismo", "videojuegos"],
+    "isActive": true
+  },
+  {
+    "fistName": "Veronica",
+    "lastName": "Vega",
+    "age": "28",
+    "phone": ["+34123445022"],
+    "email": "veronica.vega@example.com",
+    "address": {
+      "city": "Sant Cugat",
+      "street": "Passeig de la Vall d'Hebron 5",
+      "postalCode": "08172"
+    },
+    "hobbies": ["lectura", "yoga"],
+    "isActive": false
+  },
+  {
+    "fistName": "Oscar",
+    "lastName": "Castillo",
+    "age": "33",
+    "phone": ["+34123445023"],
+    "email": "oscar.castillo@example.com",
+    "address": {
+      "city": "Girona",
+      "street": "Carrer de la Força 9",
+      "postalCode": "17001"
+    },
+    "hobbies": ["pintura", "cine"],
+    "isActive": true
+  },
+  {
+    "fistName": "Patricia",
+    "lastName": "Rios",
+    "age": "39",
+    "phone": ["+34123445024"],
+    "email": "patricia.rios@example.com",
+    "address": {
+      "city": "Reus",
+      "street": "Calle Mercè 14",
+      "postalCode": "43201"
+    },
+    "hobbies": ["danza", "cocina"],
+    "isActive": true
+  },
+  {
+    "fistName": "Raul",
+    "lastName": "Mendez",
+    "age": "35",
+    "phone": ["+34123445025"],
+    "email": "raul.mendez@example.com",
+    "address": {
+      "city": "Albacete",
+      "street": "Avenida de España 21",
+      "postalCode": "02001"
+    },
+    "hobbies": ["lectura", "ajedrez"],
+    "isActive": false
+  },
+  {
+    "fistName": "Silvia",
+    "lastName": "Campos",
+    "age": "32",
+    "phone": ["+34123445026"],
+    "email": "silvia.campos@example.com",
+    "address": {
+      "city": "Teruel",
+      "street": "Calle de la Libertad 3",
+      "postalCode": "44001"
+    },
+    "hobbies": ["ciclismo", "fotografía"],
+    "isActive": true
+  },
+  {
+    "fistName": "Diego",
+    "lastName": "Serrano",
+    "age": "29",
+    "phone": ["+34123445027"],
+    "email": "diego.serrano@example.com",
+    "address": {
+      "city": "Toledo",
+      "street": "Calle del Infante 17",
+      "postalCode": "45001"
+    },
+    "hobbies": ["videojuegos", "música"],
+    "isActive": true
+  },
+  {
+    "fistName": "Adriana",
+    "lastName": "Dominguez",
+    "age": "34",
+    "phone": ["+34123445028"],
+    "email": "adriana.dominguez@example.com",
+    "address": {
+      "city": "León",
+      "street": "Avenida de San Isidoro 6",
+      "postalCode": "24001"
+    },
+    "hobbies": ["senderismo", "lectura"],
+    "isActive": false
+  },
+  {
+    "fistName": "Nicolas",
+    "lastName": "Cruz",
+    "age": "37",
+    "phone": ["+34123445029"],
+    "email": "nicolas.cruz@example.com",
+    "address": {
+      "city": "Zamora",
+      "street": "Calle Real 4",
+      "postalCode": "49001"
+    },
+    "hobbies": ["pintura", "cine"],
+    "isActive": true
+  },
+  {
+    "fistName": "Lorena",
+    "lastName": "Cortes",
+    "age": "26",
+    "phone": ["+34123445030"],
+    "email": "lorena.cortes@example.com",
+    "address": {
+      "city": "Lugo",
+      "street": "Calle Mayor 9",
+      "postalCode": "27001"
+    },
+    "hobbies": ["dibujo", "natación"],
+    "isActive": true
+  },
+  {
+    "fistName": "Victor",
+    "lastName": "Pena",
+    "age": "40",
+    "phone": ["+34123445031"],
+    "email": "victor.pena@example.com",
+    "address": {
+      "city": "Alcala de Henares",
+      "street": "Calle del Peral 11",
+      "postalCode": "28801"
+    },
+    "hobbies": ["correr", "música"],
+    "isActive": false
+  },
+  {
+    "fistName": "Rebeca",
+    "lastName": "Aguirre",
+    "age": "31",
+    "phone": ["+34123445032"],
+    "email": "rebeca.aguirre@example.com",
+    "address": {
+      "city": "Getafe",
+      "street": "Avenida de Europa 7",
+      "postalCode": "28901"
+    },
+    "hobbies": ["lectura", "yoga"],
+    "isActive": true
+  },
+  {
+    "fistName": "Mario",
+    "lastName": "Santana",
+    "age": "42",
+    "phone": ["+34123445033"],
+    "email": "mario.santana@example.com",
+    "address": {
+      "city": "Mataró",
+      "street": "Carrer de la Riera 8",
+      "postalCode": "08301"
+    },
+    "hobbies": ["fútbol", "videojuegos"],
+    "isActive": true
+  },
+  {
+    "fistName": "Alicia",
+    "lastName": "Bravo",
+    "age": "27",
+    "phone": ["+34123445034"],
+    "email": "alicia.bravo@example.com",
+    "address": {
+      "city": "Santander",
+      "street": "Calle del Puerto 10",
+      "postalCode": "39002"
+    },
+    "hobbies": ["pintura", "cocina"],
+    "isActive": false
+  },
+  {
+    "fistName": "Pablo",
+    "lastName": "Flores",
+    "age": "36",
+    "phone": ["+34123445035"],
+    "email": "pablo.flores@example.com",
+    "address": {
+      "city": "Arrecife",
+      "street": "Avenida Marítima 2",
+      "postalCode": "35500"
+    },
+    "hobbies": ["surf", "lectura"],
+    "isActive": true
+  },
+  {
+    "fistName": "Vanessa",
+    "lastName": "Soto",
+    "age": "29",
+    "phone": ["+34123445036"],
+    "email": "vanessa.soto@example.com",
+    "address": {
+      "city": "Alcorcón",
+      "street": "Calle de Toledo 12",
+      "postalCode": "28921"
+    },
+    "hobbies": ["cine", "yoga"],
+    "isActive": true
+  },
+  {
+    "fistName": "Esteban",
+    "lastName": "Prieto",
+    "age": "38",
+    "phone": ["+34123445037"],
+    "email": "esteban.prieto@example.com",
+    "address": {
+      "city": "Cornellà",
+      "street": "Passeig dels Països 3",
+      "postalCode": "08940"
+    },
+    "hobbies": ["música", "lectura"],
+    "isActive": false
+  },
+  {
+    "fistName": "Gabriela",
+    "lastName": "Figueroa",
+    "age": "33",
+    "phone": ["+34123445038"],
+    "email": "gabriela.figueroa@example.com",
+    "address": {
+      "city": "Badalona",
+      "street": "Carrer de l'Església 6",
+      "postalCode": "08920"
+    },
+    "hobbies": ["danza", "fotografía"],
+    "isActive": true
+  },
+  {
+    "fistName": "Raquel",
+    "lastName": "Rivas",
+    "age": "30",
+    "phone": ["+34123445039"],
+    "email": "raquel.rivas@example.com",
+    "address": {
+      "city": "Terrassa",
+      "street": "Carrer de la Unió 15",
+      "postalCode": "08221"
+    },
+    "hobbies": ["cocina", "pintura"],
+    "isActive": true
+  },
+  {
+    "fistName": "Hugo",
+    "lastName": "Herrero",
+    "age": "35",
+    "phone": ["+34123445040"],
+    "email": "hugo.herrero@example.com",
+    "address": {
+      "city": "Girona",
+      "street": "Carrer de la Marina 4",
+      "postalCode": "17002"
+    },
+    "hobbies": ["ciclismo", "música"],
+    "isActive": false
+  },
+  {
+    "fistName": "Alvaro",
+    "lastName": "Cruz",
+    "age": "37",
+    "phone": ["+34123445041"],
+    "email": "alvaro.cruz@example.com",
+    "address": {
+      "city": "Lleida",
+      "street": "Carrer Nou 11",
+      "postalCode": "25001"
+    },
+    "hobbies": ["lectura", "ajedrez"],
+    "isActive": true
+  },
+  {
+    "fistName": "Natalia",
+    "lastName": "Castillo",
+    "age": "28",
+    "phone": ["+34123445042"],
+    "email": "natalia.castillo@example.com",
+    "address": {
+      "city": "Huesca",
+      "street": "Calle del Cid 8",
+      "postalCode": "22001"
+    },
+    "hobbies": ["danza", "yoga"],
+    "isActive": true
+  },
+  {
+    "fistName": "Emilio",
+    "lastName": "Vega",
+    "age": "39",
+    "phone": ["+34123445043"],
+    "email": "emilio.vega@example.com",
+    "address": {
+      "city": "Logroño",
+      "street": "Calle de la Estación 5",
+      "postalCode": "26002"
+    },
+    "hobbies": ["fútbol", "senderismo"],
+    "isActive": false
+  },
+  {
+    "fistName": "Sonia",
+    "lastName": "Delgado",
+    "age": "31",
+    "phone": ["+34123445044"],
+    "email": "sonia.delgado@example.com",
+    "address": {
+      "city": "Zaragoza",
+      "street": "Calle Independencia 10",
+      "postalCode": "50002"
+    },
+    "hobbies": ["pintura", "correr"],
+    "isActive": true
+  },
+  {
+    "fistName": "Guillermo",
+    "lastName": "Lozano",
+    "age": "42",
+    "phone": ["+34123445045"],
+    "email": "guillermo.lozano@example.com",
+    "address": {
+      "city": "Madrid",
+      "street": "Calle Serrano 22",
+      "postalCode": "28002"
+    },
+    "hobbies": ["cine", "lectura"],
+    "isActive": true
+  },
+  {
+    "fistName": "Teresa",
+    "lastName": "Navarro",
+    "age": "34",
+    "phone": ["+34123445046"],
+    "email": "teresa.navarro@example.com",
+    "address": {
+      "city": "Barcelona",
+      "street": "Carrer de Balmes 16",
+      "postalCode": "08009"
+    },
+    "hobbies": ["danza", "viajar"],
+    "isActive": false
+  },
+  {
+    "fistName": "Diego",
+    "lastName": "Luna",
+    "age": "30",
+    "phone": ["+34123445047"],
+    "email": "diego.luna@example.com",
+    "address": {
+      "city": "Murcia",
+      "street": "Calle Luna 3",
+      "postalCode": "30002"
+    },
+    "hobbies": ["fotografía", "ciclismo"],
+    "isActive": true
+  },
+  {
+    "fistName": "Ines",
+    "lastName": "Marin",
+    "age": "27",
+    "phone": ["+34123445048"],
+    "email": "ines.marin@example.com",
+    "address": {
+      "city": "Sevilla",
+      "street": "Avenida del Prado 8",
+      "postalCode": "41002"
+    },
+    "hobbies": ["lectura", "natación"],
+    "isActive": true
+  },
+  {
+    "fistName": "Raul",
+    "lastName": "Campos",
+    "age": "36",
+    "phone": ["+34123445049"],
+    "email": "raul.campos@example.com",
+    "address": {
+      "city": "Valencia",
+      "street": "Calle del Río 14",
+      "postalCode": "46002"
+    },
+    "hobbies": ["música", "senderismo"],
+    "isActive": false
+  },
+  {
+    "fistName": "Clara",
+    "lastName": "Mendez",
+    "age": "29",
+    "phone": ["+34123445050"],
+    "email": "clara.mendez@example.com",
+    "address": {
+      "city": "Bilbao",
+      "street": "Calle del Parque 2",
+      "postalCode": "48002"
+    },
+    "hobbies": ["pintura", "danza"],
+    "isActive": true
+  }
+]
